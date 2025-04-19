@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ayodejidennis53@yahoo.com**
 
-- 📄 Know about my experiences (Resume)[https://drive.google.com/file/d/15cL9Fa1ufFpeVS4Rd0K-mwualvZi592t/view?usp=drive_link](https://drive.google.com/file/d/15cL9Fa1ufFpeVS4Rd0K-mwualvZi592t/view?usp=drive_link)
+<!--- 📄 Know about my experiences (Resume)[https://drive.google.com/file/d/15cL9Fa1ufFpeVS4Rd0K-mwualvZi592t/view?usp=drive_link](https://drive.google.com/file/d/15cL9Fa1ufFpeVS4Rd0K-mwualvZi592t/view?usp=drive_link) -->
 
 - ⚡ Fun fact **I like taking walks, watching movies and swimming**
 
