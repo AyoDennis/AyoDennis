@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="left">Hi 👋,  I'm Ayodeji Dennis Ajayi</h1>
-<h3 align="justify">Impact-driven and detail-oriented Data Engineer passionate about designing, developing, and optimizing end-to-end data solutions. Able to build scalable data pipelines, modernise data platforms, and enhance data governance and security. Engage in technical discussions, collaborating with cross-functional teams, and delivering data-driven solutions that align with business objectives. Skilled in migrating legacy platforms to cloud infrastructures, with hands-on experience in AWS and Snowflake. Strong leadership, collaboration, adaptability, critical thinking, problem-solving, research, and communication skills with ability to handle multiple projects simultaneously and tight timelines in a high-paced and dynamic environment</h3>
+<h3 align="justify">Impact-driven and detail-oriented Data Engineer passionate about designing, developing, and optimizing end-to-end data solutions. Able to build scalable data pipelines, modernise data platforms, and enhance data governance and security. Engage in technical discussions, collaborating with cross-functional teams, and delivering data-driven solutions that align with business objectives. Strong leadership, collaboration, adaptability, critical thinking, problem-solving, research, and communication skills with ability to handle multiple projects simultaneously and tight timelines in a high-paced and dynamic environment</h3>
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayodennis" alt="ayodennis" /></a> </p> -->
