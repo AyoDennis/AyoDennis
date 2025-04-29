@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayodennis" alt="ayodennis" /></a> </p> -->
 
-- 🔭 I’m currently working on [Big Data Platform](https://github.com/temmyzeus/Big-Data-Platform-Team-3)
+<!--- 🔭 I’m currently working on [Big Data Platform](https://github.com/temmyzeus/Big-Data-Platform-Team-3) -->
 
 - 🌱 I’m currently learning **kubernetes, Kafka and Spark**
 
